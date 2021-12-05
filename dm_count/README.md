@@ -6,6 +6,8 @@
 
 링크 주소 : https://www.kaggle.com/tthien/shanghaitech
 
+영상 링크 : https://youtu.be/tnozl4rKpd8
+
 ## Env
 requirements.txt의 torch 버전 이상으로 설치하셔도 문제 없습니다.
 pytorch 1.10.0 버전으로 테스트 시 이상 없이 진행되었으니, 본인의 CUDA 버전에 맞는 torch 버전으로 진행하시면 됩니다.
