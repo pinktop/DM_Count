@@ -7,6 +7,7 @@
 링크 주소 : https://www.kaggle.com/tthien/shanghaitech
 
 영상 링크 : https://youtu.be/tnozl4rKpd8
+https://youtu.be/I_s2pnzesbo
 
 ## Env
 requirements.txt의 torch 버전 이상으로 설치하셔도 문제 없습니다.
